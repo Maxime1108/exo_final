@@ -39,7 +39,7 @@ label {
 input,
 textarea {
   padding: 10px;
-  border: 1px solid #ddd;
+  border: 1px solid #a7fffe;
   border-radius: 5px;
 }
 
@@ -64,7 +64,7 @@ ul {
 }
 
 li {
-  background-color: #f9f9f9;
+  background-color: #c7faff;
   padding: 10px;
   border-bottom: 1px solid #ddd;
 }
